@@ -1,8 +1,8 @@
-Dataset Description
+# Dataset Description
 
 The dataset described is a comprehensive database that appears to represent a video rental store or movie rental service. It comprises multiple tables, each representing different entities and their relationships. Taking a closer look at the key components of the dataset:
 
-Table Explanations
+## Table Explanations
 
 Actor Table: The actor table lists information for all the actors, including first name and last name of actors.
 
