@@ -55,7 +55,7 @@ visualisations that support faster and better business decisions.
 ### Film & Inventory
 ![Film Inventory](07_Dashboard_Screenshots/03_Film_Inventory.jpg)
 ### Staff Performance
-![Staff Performance](07_Dashboard_Screenshots/04_Staff_Performance.jpg)
+![Staff Performance](07_Dashboard_Screenshots/04_Staff_performance.jpg)
 ### Revenue Trends
 ![Revenue Trends](07_Dashboard_Screenshots/05_Revenue_Trends.jpg)
 ### Store Operations
