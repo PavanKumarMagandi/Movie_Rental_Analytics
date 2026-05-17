@@ -73,13 +73,13 @@ visualisations that support faster and better business decisions.
 ## Project Deliverables
 | # | Deliverable | File | Status |
 |---|------------------------------|-------------------------------------------|--------|
-| 1 | MECE Breakdown | 03_MECE_Breakdown/Sakila_MECE_Breakdown.pdf| ■ |
-| 2 | EDA + SQL Analysis | 04_EDA_Analysis/Sakila_EDA_SQL_Analysis.xlsx| ■ |
-| 3 | Power BI Dashboard | 05_Power_BI_Report/Sakila_Dashboard_Report.pbix| ■|
-| 4 | Report Analysis PPT | 06_Presentations/Sakila_Report_Analysis.pptx| ■ |
-| 5 | Business Questions PPT | 06_Presentations/Sakila_Business_Questions.pptx| ■|
+| 1 | MECE Breakdown | 03_MECE_Breakdown/Movie_Rental_Analysis_MECE_Breakdown.pdf| ■ |
+| 2 | EDA + SQL Analysis | 04_EDA_Analysis/Movie_Rental_Analysis_EDA_SQL_Analysis.xlsx| ■ |
+| 3 | Power BI Dashboard | 05_Power_BI_Report/Movie_Rental_Analysis_Dashboard_Report.pbix| ■|
+| 4 | Report Analysis PPT | 06_Presentations/Movie_Rental_Analysis_Report_Analysis.pptx| ■ |
+| 5 | Business Questions PPT | 06_Presentations/Movie_Rental_Analysis_Business_Questions.pptx| ■|
 | 6 | Dashboard Screenshots | 07_Dashboard_Screenshots/ (6 JPG files) | ■ |
-| 7 | Presentation Video | [Watch on YouTube](#) / [Google Drive](#) | ■ |
+| 7 | Presentation Video | 06_Presentations/Movie_Rental_Analysis_Video.mp4| ■ |
 ---
 ## Video Demo
 🎥 Full dashboard walkthrough video is available in the repository:
