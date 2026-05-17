@@ -50,16 +50,16 @@ visualisations that support faster and better business decisions.
 ## Dashboard Preview
 ### Overview Dashboard
 ![Overview Dashboard](07_Dashboard_Screenshots/01_Overview_Dashboard.jpg)
-### Customer Analysis
-![Customer Analysis](07_Dashboard_Screenshots/02_Customer_Analysis.jpg)
-### Film & Inventory
-![Film Inventory](07_Dashboard_Screenshots/03_Film_Inventory.jpg)
-### Staff Performance
-![Staff Performance](07_Dashboard_Screenshots/04_Staff_performance.jpg)
 ### Revenue Trends
 ![Revenue Trends](07_Dashboard_Screenshots/05_Revenue_Trends.jpg)
+### Film & Inventory
+![Film Inventory](07_Dashboard_Screenshots/03_Film_Inventory.jpg)
 ### Store Operations
 ![Store Operations](07_Dashboard_Screenshots/06_Store_Operations.jpg)
+### Customer Analysis
+![Customer Analysis](07_Dashboard_Screenshots/02_Customer_Analysis.jpg)
+### Staff Performance
+![Staff Performance](07_Dashboard_Screenshots/04_Staff_performance.jpg)
 
 ---
 ## Tools Used
@@ -78,7 +78,7 @@ visualisations that support faster and better business decisions.
 | 3 | Power BI Dashboard | 05_Power_BI_Report/Sakila_Dashboard_Report.pbix| ■|
 | 4 | Report Analysis PPT | 06_Presentations/Sakila_Report_Analysis.pptx| ■ |
 | 5 | Business Questions PPT | 06_Presentations/Sakila_Business_Questions.pptx| ■|
-| 6 | Dashboard Screenshots | 07_Dashboard_Screenshots/ (6 PNG files) | ■ |
+| 6 | Dashboard Screenshots | 07_Dashboard_Screenshots/ (6 JPG files) | ■ |
 | 7 | Presentation Video | [Watch on YouTube](#) / [Google Drive](#) | ■ |
 ---
 ## Video Demo
